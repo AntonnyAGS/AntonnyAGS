@@ -1,4 +1,4 @@
-### Eao, devs 👋
+### Eai, devs 👋
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
@@ -15,7 +15,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -33,6 +33,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonnyags&show_icons=true&theme=dracula&line_height=27" alt="**AntonnyAGS** github stats"/>
 </a>
+
 [instagram]: https://www.instagram.com/antonnysantos/
 [linkedin]: https://www.linkedin.com/in/antonny-santos-004b95170/
 <br>
